@@ -5,7 +5,7 @@ matplotlib>=3.0.2
 numpy
 mlflow>=1.8.0
 overrides
-nltk==3.4.5
+nltk==3.6.6
 scikit-learn
 scipy
 pytest
