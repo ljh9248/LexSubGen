@@ -18,7 +18,7 @@ flask
 h5py
 stanfordnlp>=0.2.0
 tensorboardX>=1.2
-torch==1.4.0
+torch==1.13.1
 wordfreq
 tqdm
 pandas
